@@ -2,11 +2,11 @@
 
 2. Javascript can;
 
-     * Javascript was used in browsers to build interactive web pages.
+     * Javascript is used in browsers to build interactive web pages.
 
      * To build full blown web or mobile applications
 
-     * To build netwporking applications
+     * To build networking applications
 
      * To build games 
 
@@ -20,6 +20,7 @@
     * Type console.log(‘Hello World’); press enter when done
      * You would see the Hello World message on the console.
 
+
 5.    1. Web Application Developer. ...
         2. JavaScript Developer. ...
         3. UX Designer. ...
@@ -27,6 +28,7 @@
         5. UI Designer. ...
         6. Full Stack Developer. ...
         7. DevOps Engineer.
+        
 
 6.  1.  dynamically-typed languages perform type checking at runtime, while statically typed languages perform type checking at compile time.
    Examples include: JavaScript, Objective-C, PHP, Python, Ruby,
@@ -35,6 +37,4 @@
   Examples include;  Java, C, C++
 
 7.  Null is an assigned value. It means nothing. undefined means a variable has been declared but not defined yet.
-
-7. 
         
